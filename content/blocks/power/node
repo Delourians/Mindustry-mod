@@ -1,0 +1,8 @@
+name:Cheat Node
+description: long range and connect up to 100
+type:PowerNode
+laserRange:100
+maxNodes:500
+research:duo
+  requirements: []
+category:power
