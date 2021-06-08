@@ -1,0 +1,18 @@
+name: OP mender
+description: heals the whole world
+type: MendProjector
+
+color:84f491
+
+health: 999999
+
+size: 3
+requirements: []
+category: effect
+research:  duo
+
+hasPower:false
+
+reload:10
+range:999
+healpercent:999
