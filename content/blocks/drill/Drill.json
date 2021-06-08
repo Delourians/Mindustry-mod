@@ -1,0 +1,20 @@
+{
+    "type":"Drill",
+    "name":"OP drill"
+    "description": "OP drill for your campaign"
+    "category": "production",
+    "health": 99999999999,
+    "tier": 10,
+    "drillTime": 1,
+    "size": 1,
+    "drawMineItem": true,
+    "requirements": [],
+    "consumes": {
+        "liquid": {
+            "liquid": "water",
+            "amount": 0.1,
+            "booster": true,
+            "optional": true
+        }
+    },
+    "research": "duo"
