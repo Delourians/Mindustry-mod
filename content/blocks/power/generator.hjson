@@ -1,0 +1,14 @@
+{
+	"type": "generator",
+	"name": "Power Producer",
+	"description": "Produces 9999999999 power",
+	"size": 1,
+	"health": 100000,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 999999999,
+	"powerProduction": 9999999999,
+	"requirements": [],
+	"category": "power",
+	"research": "duo"
+}
