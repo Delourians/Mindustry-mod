@@ -1,0 +1,11 @@
+ type:Conveyor
+name: OP Conveyor
+description: faster than overflow gates and unoverflow gates
+requirements: []
+health: 999999999
+speed:9999
+displayedSpeed:9999
+category:distribution
+itemCapacity:1000
+research: duo
+
