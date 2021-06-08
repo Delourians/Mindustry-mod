@@ -1,0 +1,34 @@
+{
+	"type": "itemTurret",
+	"name": "OP Turret",
+	"description": "This is what everyone wants",
+	"targetAir": true,
+	"targetGround": true,
+	"shootSound": plasmaboom
+	"size": 1,
+	"inaccuracy": 0,
+	"health": 99999999,
+	"reload": 100,
+	"shootClone": 10,
+	"rotateSpeed": 99,
+	"shots": 3,
+	"range": 999,
+	"alternate":true
+	"ammoTypes":{
+	        "copper":{
+			"speed": 10,
+			"damage": 9999999999,
+			"status": shocked
+			"width": 5,
+			"height": 7,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootSmallSmoke",
+			"splashDamageRadius": 999,
+			"splashDamage": 99999,
+			"lifetime": 999
+	        }
+	}
+	"requirements": [],
+	"category": "turret",
+	"research": "duo"
+}
