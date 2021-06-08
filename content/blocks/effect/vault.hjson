@@ -1,0 +1,9 @@
+name: OP vault
+description: you can use this as a wall for your core
+type: storageBlock
+itemCapacity: 9999999
+health: 999999999
+size: 1
+requirements: []
+category: effect
+research: duo
