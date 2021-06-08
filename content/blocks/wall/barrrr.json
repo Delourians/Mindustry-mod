@@ -1,0 +1,10 @@
+type:Wall
+name: OP wall
+description: the invincible nanay
+requirements: []
+health: 9999999999999999999
+size:1
+category:defense
+research: duo
+craftTime: 1
+
