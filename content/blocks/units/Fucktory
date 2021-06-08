@@ -1,0 +1,21 @@
+type: UnitFactory
+name:OP unit factory
+health: 99999999
+size: 3
+itemCapacity: 99999999
+
+requirements: []
+
+plans: [
+    {
+        unit: OP unit
+        requirements: []
+        time: 0
+    }
+]
+
+category: units
+
+hasPower: false
+
+research: duo
