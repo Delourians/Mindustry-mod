@@ -1,0 +1,18 @@
+name: OP Overdrive
+description: boost buildings like how you boost eating
+type: OverdriveProjector
+
+health: 99999999
+
+size: 3
+requirements: []
+category: effect
+research:  mender
+hasPower:false
+
+reload:1
+range:500
+speedBoost:9
+speedBoostPhase:3
+phaseRangeBoost:999
+useTime:999
