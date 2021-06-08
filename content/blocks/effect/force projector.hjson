@@ -1,0 +1,30 @@
+name: OP projector
+description: you can make wall of this
+type: ForceProjector
+
+health: 99999999
+shieldHealth:99999999
+
+size: 3
+requirements: []
+category: effect
+research: duo
+
+hasPower:false
+consumes: {
+   items: {
+   booster:true
+   optional:true
+    items: [
+	  phase-fabric/1
+    ]
+  }
+}
+
+radius:500
+breakage:1
+cooldownNormal:0
+cooldownLiquid:0
+phaseRadiusBoost:9999
+phaseUseTime: 9999
+basePowerDraw:0
